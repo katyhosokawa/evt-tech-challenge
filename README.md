@@ -1,9 +1,9 @@
 ## EVT Technology Challenge 2025
 
 ### Prerequisities:
-Docker Desktop installed and started
-Bash shell (macOS/Linux)
-Port 8443 available
+- Docker Desktop installed and started
+- Bash shell (macOS/Linux)
+- Port 8443 available
 
 ### How to Run: 
 1. Run `./start.sh`
